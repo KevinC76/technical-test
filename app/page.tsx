@@ -22,7 +22,7 @@ export default function Home() {
             placeholder="Email"
           />
           <input
-            type="text"
+            type="password"
             className="border border-gray-400 rounded-md p-2"
             placeholder="Password"
           />
